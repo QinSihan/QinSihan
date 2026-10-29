@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sihan Qin
 
-<!--
-**QinSihan/QinSihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science undergraduate at **Sun Yat-sen University** and an **Embodied AI Algorithm Intern at BrainCo**. I work on robot learning and real-world robotic systems, building the infrastructure that connects data collection and management with model training, inference, and deployment.
 
-Here are some ideas to get you started:
+My earlier research includes world models for robotic manipulation and exploratory work on reinforcement learning for vision-language-action models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- **[Zotero Paper Partner](https://github.com/QinSihan/zotero-paper-partner)** — A Zotero plugin that answers questions inside native notes, keeping reading and note-taking in one workflow. [Demo and installation](https://github.com/QinSihan/zotero-paper-partner#readme) · [Download](https://github.com/QinSihan/zotero-paper-partner/releases/latest)
+- **[Cyberpunk Recon](https://github.com/QinSihan/CGTeamProject)** — A C++/OpenGL exploration game with target scanning, fog, and glitch post-processing. I built the core architecture, camera and input systems, and integrated the team's work.
+
+## Research and contact
+
+For publications, experience, and my CV, visit **[my website](https://qinsihan.github.io/)**.
+
+[Google Scholar](https://scholar.google.com/citations?user=vUdEZbMAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sihanqin) · [Email](mailto:qinsihan999@gmail.com)
