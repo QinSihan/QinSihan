@@ -1,6 +1,6 @@
 # Hi, I'm Sihan Qin
 
-I'm a computer science undergraduate at **Sun Yat-sen University** and an **Embodied AI Algorithm Intern at BrainCo**. I work on robot learning and real-world robotic systems, building the infrastructure that connects data collection and management with model training, inference, and deployment.
+I'm a computer science undergraduate at **Sun Yat-sen University** and an **Embodied AI Algorithm Intern at BrainCo**. At BrainCo, I lead a semi-autonomous prosthetic system project, building the infrastructure that connects data collection and management with model training, inference, and deployment.
 
 My earlier research includes world models for robotic manipulation and exploratory work on reinforcement learning for vision-language-action models.
 
